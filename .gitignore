@@ -1,0 +1,6 @@
+.DS_Store
+*.csv
+*.exe
+/bookkeeper
+/collector
+/distributor
